@@ -161,7 +161,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #.idea/
+=======
+#.idea/
+>>>>>>> 712dca0 (Initial push)
 =======
 #.idea/
 >>>>>>> 712dca0 (Initial push)
