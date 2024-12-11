@@ -1,5 +1,9 @@
 from collections import defaultdict
 
+def parse_input_file_list(file_path):
+    with open(file_path, "r") as file:
+        return [int(line) for line in file.read().split(" ")]
+
 def parse_input_file_two_vertical_lists(file_path):
     list1 = []
     list2 = []
