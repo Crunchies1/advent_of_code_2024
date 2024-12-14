@@ -59,4 +59,3 @@ def parse_input_file_q7(file_path) -> list[tuple[int, list[int]]]:
             numbers = [int(num) for num in split[1:]]
             lines.append((total_number, numbers))
     return lines
-    
